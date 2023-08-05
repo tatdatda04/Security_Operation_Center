@@ -1,4 +1,4 @@
-# Centralized SOC
+# Centralized SOC ( Trung tâm vận hành an ninh mạng tập trung)
 
 ## Chức năng 
 
